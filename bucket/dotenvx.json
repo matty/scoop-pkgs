@@ -1,0 +1,11 @@
+{
+  "bin": "dotenvx.exe",
+  "depends": "",
+  "url": "https://github.com/dotenvx/dotenvx/releases/download/v1.38.5/dotenvx-1.38.5-windows-amd64.zip",
+  "extract_dir": "dotenvx",
+  "hash": "47A1AFC05D7E7CCC1ED97F1AAE4FBC09CF75A21C20EB3B9905C63EC7EEC641F2",
+  "version": "1.38.5",
+  "license": "BSD 3-Clause License",
+  "homepage": "https://dotenvx.com/",
+  "description": "a better dotenv from the creator of dotenv"
+}
