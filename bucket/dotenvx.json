@@ -6,7 +6,6 @@
         }
     },
     "bin": "dotenvx.exe",
-    "extract_dir": "dotenvx",
     "version": "1.38.5",
     "license": "BSD 3-Clause License",
     "homepage": "https://dotenvx.com/",
