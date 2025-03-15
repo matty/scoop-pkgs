@@ -1,11 +1,15 @@
 {
-  "bin": "dotenvx.exe",
-  "depends": "",
-  "url": "https://github.com/dotenvx/dotenvx/releases/download/v1.38.5/dotenvx-1.38.5-windows-amd64.zip",
-  "extract_dir": "dotenvx",
-  "hash": "sha256:47a1afc05d7e7ccc1ed97f1aae4fbc09cf75a21c20eb3b9905c63ec7eec641f2",
-  "version": "1.38.5",
-  "license": "BSD 3-Clause License",
-  "homepage": "https://dotenvx.com/",
-  "description": "a better dotenv from the creator of dotenv"
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dotenvx/dotenvx/releases/download/v1.38.5/dotenvx-1.38.5-windows-amd64.zip",
+            "hash": "sha256:47a1afc05d7e7ccc1ed97f1aae4fbc09cf75a21c20eb3b9905c63ec7eec641f2"
+        }
+    },
+    "bin": "dotenvx.exe",
+    "depends": "",
+    "extract_dir": "dotenvx",
+    "version": "1.38.5",
+    "license": "BSD 3-Clause License",
+    "homepage": "https://dotenvx.com/",
+    "description": "a better dotenv from the creator of dotenv"
 }
