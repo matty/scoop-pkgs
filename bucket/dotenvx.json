@@ -1,7 +1,7 @@
 {
     "architecture": {
         "64bit": {
-            "url": "http://github.com/dotenvx/dotenvx/releases/download/v1.51.0/dotenvx-1.51.0-windows-amd64.zip",
+            "url": "https://github.com/dotenvx/dotenvx/releases/download/v1.51.0/dotenvx-1.51.0-windows-amd64.zip",
             "hash": "sha256:494124A2F3742CAD9BA807D4B1DF659A944DB70A55FA138699DC84E182938861"
         }
     },
